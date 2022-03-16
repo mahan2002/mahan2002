@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**mahan2002/mahan2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+سلام 
 
 Here are some ideas to get you started:
 
